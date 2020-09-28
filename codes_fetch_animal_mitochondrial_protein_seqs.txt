@@ -113,7 +113,7 @@ done
 
 
 
-id=0.97
+id=0.90
 mkdir -p step2_cluster
 for type_ in `cat gene_name.txt`
 do
